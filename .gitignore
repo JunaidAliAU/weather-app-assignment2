@@ -1,0 +1,38 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter-plugins
+
+# Android
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# iOS
+ios/Flutter/App.framework/
+ios/Flutter/Flutter.framework/
+ios/Flutter/Flutter.podspec
+ios/Flutter/.last_build_id
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+
+# Files
+*.apk
+*.aab
+*.ipa
+*.key
+*.jks
+*.keystore
